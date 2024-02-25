@@ -1,6 +1,6 @@
 # 1 SQUAT
 
-Just a Gallery of images. 
+A Squat that rewards with more than just longetivity. 
 
 ## Demo
 
